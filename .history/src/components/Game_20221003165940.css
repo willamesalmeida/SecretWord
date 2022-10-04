@@ -1,0 +1,19 @@
+.game h1{
+    font-size: 2.5em;
+}
+
+.point span {
+    font-weight: bold;
+}
+
+.wordContainer{
+    margin: 1.5em;
+    padding: 1.5em;
+    border: 20px solid #ecfa08;
+    display: flex;   
+}
+
+.letter, .blankSquare {
+    font-size: 70px ;
+    line-height: 1.5;
+}
